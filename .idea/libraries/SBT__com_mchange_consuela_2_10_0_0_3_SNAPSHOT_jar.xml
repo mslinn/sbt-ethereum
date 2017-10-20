@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: com.mchange:consuela_2.10:0.0.3-SNAPSHOT:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.mchange/consuela_2.10/jars/consuela_2.10-0.0.3-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.mchange/consuela_2.10/srcs/consuela_2.10-0.0.3-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

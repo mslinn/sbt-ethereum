@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: com.mchange:jsonrpc-client_2.10:0.0.1-SNAPSHOT:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.mchange/jsonrpc-client_2.10/jars/jsonrpc-client_2.10-0.0.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.mchange/jsonrpc-client_2.10/srcs/jsonrpc-client_2.10-0.0.1-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: com.mchange:restricted-type_2.10:0.0.3-SNAPSHOT:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.mchange/restricted-type_2.10/jars/restricted-type_2.10-0.0.3-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.mchange/restricted-type_2.10/srcs/restricted-type_2.10-0.0.3-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
